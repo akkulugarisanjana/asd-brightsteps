@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs><linearGradient id="ge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff7ed"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#ge)"/>
+  <g transform="translate(80,80)">
+    <circle cx="80" cy="60" r="50" fill="#fde68a"/><circle cx="60" cy="50" r="6" fill="#1f2937"/><circle cx="100" cy="50" r="6" fill="#1f2937"/>
+    <path d="M58 80 Q80 96 102 80" stroke="#1f2937" stroke-width="5" fill="none"/>
+    <text x="80" y="130" text-anchor="middle" font-family="system-ui" font-size="16" fill="#374151">Happy</text>
+  </g>
+  <g transform="translate(260,80)">
+    <circle cx="80" cy="60" r="50" fill="#bae6fd"/><circle cx="60" cy="50" r="6" fill="#1f2937"/><circle cx="100" cy="50" r="6" fill="#1f2937"/>
+    <path d="M58 90 Q80 70 102 90" stroke="#1f2937" stroke-width="5" fill="none"/>
+    <text x="80" y="130" text-anchor="middle" font-family="system-ui" font-size="16" fill="#374151">Sad</text>
+  </g>
+  <g transform="translate(440,80)">
+    <circle cx="80" cy="60" r="50" fill="#fecaca"/><circle cx="60" cy="50" r="6" fill="#1f2937"/><circle cx="100" cy="50" r="6" fill="#1f2937"/>
+    <path d="M58 80 Q80 50 102 80" stroke="#1f2937" stroke-width="5" fill="none"/>
+    <text x="80" y="130" text-anchor="middle" font-family="system-ui" font-size="16" fill="#374151">Scared</text>
+  </g>
+</svg>

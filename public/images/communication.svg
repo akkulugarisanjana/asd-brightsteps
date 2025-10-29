@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f4ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <g transform="translate(120,60)">
+    <circle cx="60" cy="60" r="40" fill="#ffd59e"/>
+    <rect x="30" y="110" rx="16" ry="16" width="60" height="90" fill="#7dd3fc"/>
+    <circle cx="46" cy="52" r="6" fill="#334155"/><circle cx="74" cy="52" r="6" fill="#334155"/>
+    <path d="M45 75 Q60 85 75 75" stroke="#334155" stroke-width="4" fill="none"/>
+    <path d="M20 35 q40 -40 80 0" stroke="#a78bfa" stroke-width="14" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(360,60)">
+    <circle cx="60" cy="60" r="40" fill="#ffb4a2"/>
+    <rect x="30" y="110" rx="16" ry="16" width="60" height="90" fill="#86efac"/>
+    <circle cx="46" cy="52" r="6" fill="#334155"/><circle cx="74" cy="52" r="6" fill="#334155"/>
+    <path d="M45 75 Q60 65 75 75" stroke="#334155" stroke-width="4" fill="none"/>
+    <path d="M20 35 q40 -40 80 0" stroke="#fca5a5" stroke-width="14" fill="none" stroke-linecap="round"/>
+  </g>
+  <g><rect x="240" y="250" rx="12" ry="12" width="160" height="60" fill="#fef08a" stroke="#eab308"/>
+    <text x="320" y="288" text-anchor="middle" font-family="system-ui" font-weight="700" font-size="20" fill="#374151">Say "Hi!"</text></g>
+</svg>
